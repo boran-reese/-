@@ -4,8 +4,8 @@
 
 ## 视频介绍
 
-<!-- 使用 Markdown 图片链接格式创建缩略图链接 -->
-[![我的GitHub视频](https://img.youtube.com/vi/7HPpj0BieB4/0.jpg)](https://www.youtube.com/watch?v=7HPpj0BieB4)
+<!-- 直接链接到 GitHub Pages 托管的页面 -->
+<a href="https://boran-reese.github.io/Reese-human/"><img src="https://img.youtube.com/vi/7HPpj0BieB4/0.jpg" alt="我的GitHub视频"></a>
 
 </div>
 
