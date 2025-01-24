@@ -1,4 +1,7 @@
 <div align="center">
+
+<a href="https://tryfastgpt.ai/"><img src="/.github/imgs/logo.svg" width="120" height="120" alt="瑞思智控 logo"></a>
+
 # AI全场景拟态人 | 实时交互系统 | 本地私有化部署 | 云部署
 
 ## 视频介绍
@@ -17,4 +20,3 @@
 [![全场景拟态人介绍4](https://github.com/boran-reese/Reese-human/blob/main/%E5%85%A8%E5%9C%BA%E6%99%AF%E6%8B%9F%E6%80%81%E4%BA%BA%E4%BB%8B%E7%BB%8D_4.png)](https://github.com/boran-reese/Reese-human/blob/main/%E5%85%A8%E5%9C%BA%E6%99%AF%E6%8B%9F%E6%80%81%E4%BA%BA%E4%BB%8B%E7%BB%8D_4.png)
 [![全场景拟态人介绍5](https://github.com/boran-reese/Reese-human/blob/main/%E5%85%A8%E5%9C%BA%E6%99%AF%E6%8B%9F%E6%80%81%E4%BA%BA%E4%BB%8B%E7%BB%8D_5.png)](https://github.com/boran-reese/Reese-human/blob/main/%E5%85%A8%E5%9C%BA%E6%99%AF%E6%8B%9F%E6%80%81%E4%BA%BA%E4%BB%8B%E7%BB%8D_5.png)
 </div>
-
