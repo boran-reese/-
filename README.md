@@ -1,7 +1,5 @@
 <div align="center">
 
-<a href="https://tryfastgpt.ai/"><img src="/.github/imgs/logo.svg" width="120" height="120" alt="瑞思智控 logo"></a>
-
 # AI全场景拟态人 | 实时交互系统 | 本地私有化部署 | 云部署
 
 ## 视频介绍
