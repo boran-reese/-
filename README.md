@@ -4,8 +4,11 @@
 
 ## 视频介绍
 
-<!-- 直接链接到 GitHub Pages 托管的页面 -->
-<a href="https://boran-reese.github.io/Reese-human/"><img src="https://img.youtube.com/vi/7HPpj0BieB4/0.jpg" alt="我的GitHub视频"></a>
+<!-- 使用 HTML5 video 标签嵌入视频 -->
+<video width="560" height="315" controls>
+  <source src="https://vip.123pan.cn/1819081473/%E8%A7%86%E9%A2%91/%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91bgm.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 
